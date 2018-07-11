@@ -1,4 +1,4 @@
-// Spencer Thomason
+
 // server.c
 
 
