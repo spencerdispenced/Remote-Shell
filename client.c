@@ -1,4 +1,4 @@
-//Spencer Thomason
+
 //client.c
 
 #include <stdio.h>
